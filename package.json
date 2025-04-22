@@ -1,0 +1,19 @@
+{
+  "name": "trae_blender",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.3.1"
+  },
+  "dependencies": {
+    "@types/node": "^22.14.1",
+    "crypto-browserify": "^3.12.1",
+    "three": "^0.175.0"
+  }
+}
